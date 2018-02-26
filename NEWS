@@ -1,0 +1,5 @@
+Changes in Version 0.1-0
+
+  o First official release of the package on CRAN. Note that the interface of 
+    onlineVAR() is still under development and might change in
+    future versions of the package.

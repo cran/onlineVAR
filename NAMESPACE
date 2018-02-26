@@ -1,0 +1,19 @@
+useDynLib(onlineVAR, .registration = TRUE)
+import("parallel", "lattice")
+importFrom("stats", "na.omit", "cov")
+importFrom("utils", "head", "tail")
+
+export(
+  "onlineVAR",
+  "onlineVAR.fit"
+)
+
+## methods for crch
+S3method("coef", "onlineVAR")
+S3method("predict", "onlineVAR")
+S3method("summary", "onlineVAR")
+S3method("print", "summary.onlineVAR")
+S3method("print", "onlineVAR")
+S3method("plot", "onlineVAR")
+
+

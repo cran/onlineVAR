@@ -1,0 +1,16 @@
+a6c3041e7d293e3cd0b70d714535ca79 *DESCRIPTION
+a1af3576dd3bdbf1dae94ee6078c248a *NAMESPACE
+13e80f8e6381ae1244ec255fb6b3ec0a *NEWS
+2b545652014e2570b0a761009d86baa3 *R/onlineVAR.R
+f9a8f31b95942f893c119aa0d4c6bb95 *data/aemo.rda
+575948e4254d7e41673b7f55a8cbcb0a *data/datalist
+31553791e8c019f9640bc41f1d603288 *inst/CITATION
+9df3510f59a577183ca7af935a3498c8 *man/aemo.Rd
+b8857d061a9ec06da40ba28fc878bacb *man/coef.onlineVAR.Rd
+b87643af765159b831987332e54773c2 *man/onlineVAR.Rd
+1c0c3113fea361e963972d0e867d738d *man/onlineVAR.control.Rd
+415b799682927f2757884e94c7bb668d *man/plot.onlineVAR.Rd
+93e22cc683f5ce117527782b1c92fd09 *man/predict.onlineVAR.Rd
+3996e7c16bfb96fad295ee425815cb4d *src/Makevars
+03ba53f20e722656d6826d49a719c2a2 *src/onlineVAR.fit.c
+50f5fa13ed3081cfe9566e5fc879f2d9 *src/onlineVAR_init.c

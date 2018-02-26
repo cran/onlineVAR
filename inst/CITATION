@@ -1,0 +1,17 @@
+citEntry(entry = "Article",
+  title        = "Online Adaptive {LASSO} Estimation in Vector Auto Regressive Models for Wind Power Forecasting in High Dimension",
+  author       = personList(as.person("Jakob W. Messner"),
+		            as.person("Pierre Pinson")),
+  journal      = "International Journal of Forecasting",
+  year         = "2018",
+  pages        = "in press",
+  url          = "http://pierrepinson.com/docs/MessnerPinson18.pdf",
+
+  textVersion  =
+  paste("Jakob W. Messner, Pierre Pinson (2018).",
+        "Online adaptive LASSO estimation in Vector Auto Regressive models for wind power forecasting in high dimension.",
+        "International Journal of Forecasting, in press",
+        "URL http://pierrepinson.com/docs/MessnerPinson18.pdf"),
+)
+
+
