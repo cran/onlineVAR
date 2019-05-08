@@ -5,13 +5,13 @@ citEntry(entry = "Article",
   journal      = "International Journal of Forecasting",
   year         = "2018",
   pages        = "in press",
-  url          = "http://pierrepinson.com/docs/MessnerPinson18.pdf",
+  doi          = "10.1016/j.ijforecast.2018.02.001",
 
   textVersion  =
   paste("Jakob W. Messner, Pierre Pinson (2018).",
         "Online adaptive LASSO estimation in Vector Auto Regressive models for wind power forecasting in high dimension.",
         "International Journal of Forecasting, in press",
-        "URL http://pierrepinson.com/docs/MessnerPinson18.pdf"),
+        "DOI 10.1016/j.ijforecast.2018.02.001"),
 )
 
 

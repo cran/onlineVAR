@@ -1,16 +1,16 @@
 Package: onlineVAR
 Title: Online Fitting of Time-Adaptive Lasso Vector Auto Regression
-Version: 0.1-0
-Date: 2018-02-26
-Authors@R: c(person(given = "Jakob", family = "Messner", role = c("aut", "cre"), email = "jwmm@dtu.dk"))
+Version: 0.1-1
+Date: 2019-05-05
+Authors@R: c(person(given = "Jakob", family = "Messner", role = c("aut", "cre"), email = "jakob.messner@posteo.net"))
 Depends: R (>= 2.10.0)
 Imports: parallel, lattice
 Suggests:
-Description: Functions for recursive online fitting of time-adaptive lasso vector auto regression. A recursive coordinate descent algorithm is used to estimate sparse vector auto regressive models and exponential forgetting is applied to allow model changes. Details can be found in Jakob W. Messner and Pierre Pinson (2018). "Online adaptive LASSO estimation in Vector Auto Regressive models for wind power forecasting in high dimension". International Journal of Forecasting, in press. Preprint: <http://pierrepinson.com/docs/MessnerPinson18.pdf>.
+Description: Functions for recursive online fitting of time-adaptive lasso vector auto regression. A recursive coordinate descent algorithm is used to estimate sparse vector auto regressive models and exponential forgetting is applied to allow model changes. Details can be found in Jakob W. Messner and Pierre Pinson (2018). "Online adaptive LASSO estimation in Vector Auto Regressive models for wind power forecasting in high dimension". International Journal of Forecasting, in press. <doi:10.1016/j.ijforecast.2018.02.001>.
 License: GPL-2 | GPL-3
 NeedsCompilation: yes
-Packaged: 2018-02-26 12:09:22 UTC; jakobm
+Packaged: 2019-05-05 14:57:25 UTC; jakob
 Author: Jakob Messner [aut, cre]
-Maintainer: Jakob Messner <jwmm@dtu.dk>
+Maintainer: Jakob Messner <jakob.messner@posteo.net>
 Repository: CRAN
-Date/Publication: 2018-02-26 18:39:32 UTC
+Date/Publication: 2019-05-08 07:50:03 UTC
